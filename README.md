@@ -10,3 +10,4 @@ Un blog increible para el [curso de git and github](https://platzi.com/cursos/gi
 *El verdadero amor por las buenas practicas
 *Trucos muy locos del profesor
 *las personalidades multiples de Freddy
+*Creado por el increible platzi Team
